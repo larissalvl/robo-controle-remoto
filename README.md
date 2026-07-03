@@ -63,8 +63,8 @@ A partir do código base validado na simulação, foram adicionadas as rotinas d
 ## 📁 Estrutura do Repositório
 
 ```
-robo-controle-remoto/
-├── codigo/
+remote-controlled-robot/
+├── code/
 │   └── robo_bluetooth.ino   # Código principal do Arduino
 ├── app/
 │   └── controle_robo.aia    # Arquivo do App Inventor (importável)
