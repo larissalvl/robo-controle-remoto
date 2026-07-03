@@ -59,8 +59,8 @@ Based on the code validated in the simulation, Bluetooth communication routines 
 ## 📁 Repository Structure
 
 ```
-robo-controle-remoto/
-├── codigo/
+remote-controlled-robot/
+├── code/
 │   └── robo_bluetooth.ino   # Main Arduino code
 ├── app/
 │   └── controle_robo.aia    # App Inventor file (importable)
